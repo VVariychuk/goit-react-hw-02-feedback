@@ -1,0 +1,11 @@
+.optionsList {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding: 5px;
+  margin: 0 0 15px;
+}
+
+.optionsListItm {
+  margin-right: 15px;
+}
